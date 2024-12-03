@@ -1,0 +1,9 @@
+name: binder-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
